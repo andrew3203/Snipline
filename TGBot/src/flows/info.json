@@ -1,0 +1,22 @@
+{
+  "start_node": "info_start",
+  "nodes": {
+    "info_start": {
+      "type": "message",
+      "btn": {
+        "buttons": [
+          [
+            {
+              "callback": "main_menu"
+            }
+          ]
+        ]
+      }
+    },
+    "main_menu": {
+      "type": "subflow",
+      "flow": "start_repeat",
+      "entry": "welcome_back_single"
+    }
+  }
+}

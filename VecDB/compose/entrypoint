@@ -1,0 +1,13 @@
+#!/bin/bash
+set -e
+
+ollama serve &
+
+until curl -s http://localhost:11434 >/dev/null; do
+  echo "Waiting Ollama..."
+  sleep 2
+done
+
+ollama pull ${EMBEDDING_MODEL}
+
+wait

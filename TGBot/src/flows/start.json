@@ -1,0 +1,112 @@
+{
+  "start_node": "greet_f",
+  "nodes": {
+    "greet_f": {
+      "type": "function",
+      "name": "chech_user",
+      "next": "greet"
+    },
+    "greet": {
+      "type": "message",
+      "btn": {
+        "buttons": [
+          [
+            {
+              "callback": "intro_1"
+            }
+          ]
+        ]
+      }
+    },
+    "intro_1": {
+      "type": "message",
+      "edit": true,
+      "btn": {
+        "buttons": [
+          [
+            {
+              "callback": "intro_2"
+            }
+          ]
+        ]
+      }
+    },
+    "intro_2": {
+      "type": "message",
+      "edit": true,
+      "btn": {
+        "buttons": [
+          [
+            {
+              "callback": "gift_intro_f"
+            }
+          ]
+        ]
+      }
+    },
+    "gift_intro_f": {
+      "type": "function",
+      "name": "gift",
+      "next": "gift_intro"
+    },
+    "gift_intro": {
+      "type": "message",
+      "edit": true,
+      "btn": {
+        "buttons": [
+          [
+            {
+              "callback": "referral_intro"
+            }
+          ]
+        ]
+      }
+    },
+    "referral_intro": {
+      "type": "message",
+      "edit": true,
+      "btn": {
+        "buttons": [
+          [
+            {
+              "callback": "final_choose"
+            }
+          ]
+        ]
+      }
+    },
+    "final_choose": {
+      "type": "message",
+      "edit": true,
+      "btn": {
+        "buttons": [
+          [
+            {
+              "callback": "start_filter"
+            }
+          ],
+          [
+            {
+              "callback": "start_info"
+            }
+          ]
+        ]
+      }
+    },
+    "start_filter": {
+      "type": "subflow",
+      "flow": "filter",
+      "entry": "filter_start"
+    },
+    "start_info": {
+      "type": "subflow",
+      "flow": "info",
+      "entry": "info_start"
+    },
+    "second_eneter": {
+      "type": "subflow",
+      "flow": "start_repeat",
+      "entry": "welcome_back_single"
+    }
+  }
+}

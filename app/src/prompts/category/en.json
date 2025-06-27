@@ -1,0 +1,158 @@
+[
+    {
+        "category": "politics",
+        "subcategories": [
+            "elections",
+            "sanctions",
+            "corruption",
+            "international relations",
+            "governance",
+            "legislation",
+            "military conflicts"
+        ]
+    },
+    {
+        "category": "economy",
+        "subcategories": [
+            "inflation",
+            "unemployment",
+            "taxes",
+            "budget",
+            "currency",
+            "public debt",
+            "macroeconomics"
+        ]
+    },
+    {
+        "category": "business",
+        "subcategories": [
+            "markets",
+            "deals",
+            "financial reporting",
+            "IPO",
+            "corporations",
+            "entrepreneurship",
+            "banking"
+        ]
+    },
+    {
+        "category": "technology",
+        "subcategories": [
+            "artificial intelligence",
+            "startups",
+            "gadgets",
+            "cybersecurity",
+            "social media",
+            "blockchain",
+            "robotics"
+        ]
+    },
+    {
+        "category": "sports",
+        "subcategories": [
+            "football",
+            "olympics",
+            "tennis",
+            "hockey",
+            "transfers",
+            "championships",
+            "records"
+        ]
+    },
+    {
+        "category": "society",
+        "subcategories": [
+            "education",
+            "migration",
+            "family",
+            "employment",
+            "social policy",
+            "youth",
+            "demographics"
+        ]
+    },
+    {
+        "category": "incidents",
+        "subcategories": [
+            "fires",
+            "traffic accidents",
+            "crimes",
+            "floods",
+            "terrorist acts",
+            "explosions",
+            "catastrophes"
+        ]
+    },
+    {
+        "category": "culture",
+        "subcategories": [
+            "cinema",
+            "literature",
+            "theater",
+            "music",
+            "painting",
+            "festivals",
+            "museums"
+        ]
+    },
+    {
+        "category": "science",
+        "subcategories": [
+            "astrophysics",
+            "biology",
+            "medicine",
+            "ecology",
+            "innovation",
+            "research",
+            "technological discoveries"
+        ]
+    },
+    {
+        "category": "automotive",
+        "subcategories": [
+            "electric vehicles",
+            "road tests",
+            "new models",
+            "accidents",
+            "autoshow",
+            "tuning",
+            "trucks"
+        ]
+    },
+    {
+        "category": "media",
+        "subcategories": [
+            "television",
+            "online media",
+            "journalism",
+            "censorship",
+            "social platforms",
+            "live broadcasts",
+            "influencers"
+        ]
+    },
+    {
+        "category": "health",
+        "subcategories": [
+            "psychology",
+            "diseases",
+            "medications",
+            "healthy lifestyle",
+            "medical system",
+            "epidemics",
+            "healthcare services"
+        ]
+    },
+    {
+        "category": "travel",
+        "subcategories": [
+            "tourism",
+            "air travel",
+            "hotels",
+            "visas",
+            "cruises",
+            "guides",
+            "countries and cities"
+        ]
+    }
+]

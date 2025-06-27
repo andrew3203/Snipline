@@ -1,0 +1,54 @@
+services:
+  vec:
+    build:
+      context: .
+      dockerfile: ./compose/Dockerfile.app
+    image: vec
+    container_name: vec
+    depends_on:
+      - ollama
+      - qdrant
+    env_file:
+      - .env
+    networks:
+      - vec-net
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./src/:/app/src
+    command: ["/start"]
+
+  ollama:
+    build:
+      context: .
+      dockerfile: ./compose/Dockerfile.ollama
+      args:
+        - EMBEDDING_MODEL=${EMBEDDING_MODEL}
+    container_name: ollama
+    env_file:
+      - .env
+    volumes:
+      - ollama:/root/.ollama
+    ports:
+      - "11434:11434"
+    networks:
+      - vec-net
+  
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: qdrant
+    restart: unless-stopped
+    ports:
+      - "6333:6333"
+    volumes:
+      - qdrant_storage:/qdrant/storage
+    networks:
+      - vec-net
+
+volumes:
+  qdrant_storage:
+  ollama:
+
+networks:
+  vec-net:
+    driver: bridge

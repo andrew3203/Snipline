@@ -1,0 +1,16 @@
+from abc import ABC
+from apscheduler.triggers.cron import CronTrigger
+
+
+class BaseTask(ABC):
+    async def handle(self) -> None: ...
+
+    async def start(self) -> None: ...
+
+    async def stop(self) -> None: ...
+
+    @property
+    def name(self) -> str: ...
+
+    @property
+    def trigger(self) -> CronTrigger: ...

@@ -1,0 +1,20 @@
+services:
+  tg:
+    build:
+      context: .
+    image: tg
+    container_name: tg
+    volumes:
+      - .:/app
+    env_file:
+      - .env
+    networks:
+      - snipline_net
+    command: ["uv", "run", "main.py"]
+
+volumes:
+  redis_volume:
+
+networks:
+  snipline_net:
+    external: true

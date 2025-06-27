@@ -1,0 +1,133 @@
+{
+    "start_node": "filter_start",
+    "nodes": {
+        "filter_start": {
+            "type": "message",
+            "btn": {
+                "type": "dynamic",
+                "buttons_gen_func": "get_categories"
+            }
+        },
+        "input_category": {
+            "type": "input",
+            "save_to": "category",
+            "next": "choose_subcategory"
+        },
+        "choose_subcategory": {
+            "type": "message",
+            "btn": {
+                "type": "dynamic",
+                "buttons_gen_func": "get_subcategories"
+            }
+        },
+        "input_subcategory": {
+            "type": "input",
+            "save_to": "subcategories",
+            "next": "choose_more_subcategories"
+        },
+        "choose_more_subcategories": {
+            "type": "condition",
+            "conditions": [
+                {
+                    "if": "len(selected_subcategories) < 3",
+                    "goto": "choose_subcategory"
+                },
+                {
+                    "else": "ask_countries"
+                }
+            ]
+        },
+        "same_subcategory_choice": {
+            "type": "message",
+            "next": "filter_intro"
+        },
+        "ask_countries": {
+            "type": "message",
+            "btn": {
+                "buttons": [
+                    [
+                        {
+                            "callback": "input_countries"
+                        }
+                    ],
+                    [
+                        {
+                            "callback": "ask_names"
+                        }
+                    ]
+                ]
+            }
+        },
+        "input_countries": {
+            "type": "input",
+            "save_to": "filter_countries",
+            "next": "ask_names"
+        },
+        "ask_names": {
+            "type": "message",
+            "btn": {
+                "buttons": [
+                    [
+                        {
+                            "callback": "input_names"
+                        }
+                    ],
+                    [
+                        {
+                            "callback": "ask_extra_keywords"
+                        }
+                    ]
+                ]
+            }
+        },
+        "input_names": {
+            "type": "input",
+            "save_to": "filter_names",
+            "next": "ask_extra_keywords"
+        },
+        "ask_extra_keywords": {
+            "type": "message",
+            "btn": {
+                "buttons": [
+                    [
+                        {
+                            "callback": "input_keywords"
+                        }
+                    ],
+                    [
+                        {
+                            "callback": "filter_done"
+                        }
+                    ]
+                ]
+            }
+        },
+        "input_keywords": {
+            "type": "input",
+            "save_to": "filter_keywords",
+            "next": "filter_done"
+        },
+        "filter_done": {
+            "type": "message",
+            "btn": {
+                "buttons": [
+                    [
+                        {
+                            "callback": "filter_intro"
+                        }
+                    ],
+                    [
+                        {
+                            "callback": "main_menu"
+                        }
+                    ]
+                ]
+            }
+        },
+        "main_menu": {
+            "type": "subflow",
+            "flow": "main",
+            "entry": "menu_start"
+        }
+    }
+}

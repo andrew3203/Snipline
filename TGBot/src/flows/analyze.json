@@ -1,0 +1,59 @@
+{
+  "start_node": "analyze_intro",
+  "nodes": {
+    "analyze_intro": {
+      "type": "message",
+      "next": "wait_user_query"
+    },
+    "wait_user_query": {
+      "type": "input",
+      "save_to": "user_query",
+      "next": "analyze_search"
+    },
+    "analyze_search": {
+      "type": "function",
+      "name": "search_news_by_query",
+      "next": "show_search_results"
+    },
+    "show_search_results": {
+      "type": "message",
+      "btn": {
+        "buttons": [
+          [
+            {
+              "callback": "refine_query"
+            }
+          ],
+          [
+            {
+              "callback": "new_query"
+            }
+          ],
+          [
+            {
+              "callback": "main_menu"
+            }
+          ]
+        ]
+      }
+    },
+    "refine_query": {
+      "type": "message",
+      "next": "wait_user_refine"
+    },
+    "wait_user_refine": {
+      "type": "input",
+      "save_to": "user_query",
+      "next": "analyze_search"
+    },
+    "new_query": {
+      "type": "message",
+      "next": "wait_user_query"
+    },
+    "main_menu": {
+      "type": "subflow",
+      "flow": "start_repeat",
+      "entry": "welcome_back_single"
+    }
+  }
+}

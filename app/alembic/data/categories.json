@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "key": "politics",
+    "parent_id": null
+  },
+  {
+    "id": 2,
+    "key": "elections",
+    "parent_id": 1
+  },
+  {
+    "id": 3,
+    "key": "sanctions",
+    "parent_id": 1
+  },
+  {
+    "id": 4,
+    "key": "corruption",
+    "parent_id": 1
+  },
+  {
+    "id": 5,
+    "key": "international relations",
+    "parent_id": 1
+  },
+  {
+    "id": 6,
+    "key": "governance",
+    "parent_id": 1
+  },
+  {
+    "id": 7,
+    "key": "legislation",
+    "parent_id": 1
+  },
+  {
+    "id": 8,
+    "key": "military conflicts",
+    "parent_id": 1
+  },
+  {
+    "id": 9,
+    "key": "economy",
+    "parent_id": null
+  },
+  {
+    "id": 10,
+    "key": "inflation",
+    "parent_id": 9
+  },
+  {
+    "id": 11,
+    "key": "unemployment",
+    "parent_id": 9
+  },
+  {
+    "id": 12,
+    "key": "taxes",
+    "parent_id": 9
+  },
+  {
+    "id": 13,
+    "key": "budget",
+    "parent_id": 9
+  },
+  {
+    "id": 14,
+    "key": "currency",
+    "parent_id": 9
+  },
+  {
+    "id": 15,
+    "key": "public debt",
+    "parent_id": 9
+  },
+  {
+    "id": 16,
+    "key": "macroeconomics",
+    "parent_id": 9
+  },
+  {
+    "id": 17,
+    "key": "business",
+    "parent_id": null
+  },
+  {
+    "id": 18,
+    "key": "markets",
+    "parent_id": 17
+  },
+  {
+    "id": 19,
+    "key": "deals",
+    "parent_id": 17
+  },
+  {
+    "id": 20,
+    "key": "financial reporting",
+    "parent_id": 17
+  },
+  {
+    "id": 21,
+    "key": "IPO",
+    "parent_id": 17
+  },
+  {
+    "id": 22,
+    "key": "corporations",
+    "parent_id": 17
+  },
+  {
+    "id": 23,
+    "key": "entrepreneurship",
+    "parent_id": 17
+  },
+  {
+    "id": 24,
+    "key": "banking",
+    "parent_id": 17
+  },
+  {
+    "id": 25,
+    "key": "technology",
+    "parent_id": null
+  },
+  {
+    "id": 26,
+    "key": "artificial intelligence",
+    "parent_id": 25
+  },
+  {
+    "id": 27,
+    "key": "startups",
+    "parent_id": 25
+  },
+  {
+    "id": 28,
+    "key": "gadgets",
+    "parent_id": 25
+  },
+  {
+    "id": 29,
+    "key": "cybersecurity",
+    "parent_id": 25
+  },
+  {
+    "id": 30,
+    "key": "social media",
+    "parent_id": 25
+  },
+  {
+    "id": 31,
+    "key": "blockchain",
+    "parent_id": 25
+  },
+  {
+    "id": 32,
+    "key": "robotics",
+    "parent_id": 25
+  },
+  {
+    "id": 33,
+    "key": "sports",
+    "parent_id": null
+  },
+  {
+    "id": 34,
+    "key": "football",
+    "parent_id": 33
+  },
+  {
+    "id": 35,
+    "key": "olympics",
+    "parent_id": 33
+  },
+  {
+    "id": 36,
+    "key": "tennis",
+    "parent_id": 33
+  },
+  {
+    "id": 37,
+    "key": "hockey",
+    "parent_id": 33
+  },
+  {
+    "id": 38,
+    "key": "transfers",
+    "parent_id": 33
+  },
+  {
+    "id": 39,
+    "key": "championships",
+    "parent_id": 33
+  },
+  {
+    "id": 40,
+    "key": "records",
+    "parent_id": 33
+  },
+  {
+    "id": 41,
+    "key": "society",
+    "parent_id": null
+  },
+  {
+    "id": 42,
+    "key": "education",
+    "parent_id": 41
+  },
+  {
+    "id": 43,
+    "key": "migration",
+    "parent_id": 41
+  },
+  {
+    "id": 44,
+    "key": "family",
+    "parent_id": 41
+  },
+  {
+    "id": 45,
+    "key": "employment",
+    "parent_id": 41
+  },
+  {
+    "id": 46,
+    "key": "social policy",
+    "parent_id": 41
+  },
+  {
+    "id": 47,
+    "key": "youth",
+    "parent_id": 41
+  },
+  {
+    "id": 48,
+    "key": "demographics",
+    "parent_id": 41
+  },
+  {
+    "id": 49,
+    "key": "incidents",
+    "parent_id": null
+  },
+  {
+    "id": 50,
+    "key": "fires",
+    "parent_id": 49
+  },
+  {
+    "id": 51,
+    "key": "traffic accidents",
+    "parent_id": 49
+  },
+  {
+    "id": 52,
+    "key": "crimes",
+    "parent_id": 49
+  },
+  {
+    "id": 53,
+    "key": "floods",
+    "parent_id": 49
+  },
+  {
+    "id": 54,
+    "key": "terrorist acts",
+    "parent_id": 49
+  },
+  {
+    "id": 55,
+    "key": "explosions",
+    "parent_id": 49
+  },
+  {
+    "id": 56,
+    "key": "catastrophes",
+    "parent_id": 49
+  },
+  {
+    "id": 57,
+    "key": "culture",
+    "parent_id": null
+  },
+  {
+    "id": 58,
+    "key": "cinema",
+    "parent_id": 57
+  },
+  {
+    "id": 59,
+    "key": "literature",
+    "parent_id": 57
+  },
+  {
+    "id": 60,
+    "key": "theater",
+    "parent_id": 57
+  },
+  {
+    "id": 61,
+    "key": "music",
+    "parent_id": 57
+  },
+  {
+    "id": 62,
+    "key": "painting",
+    "parent_id": 57
+  },
+  {
+    "id": 63,
+    "key": "festivals",
+    "parent_id": 57
+  },
+  {
+    "id": 64,
+    "key": "museums",
+    "parent_id": 57
+  },
+  {
+    "id": 65,
+    "key": "science",
+    "parent_id": null
+  },
+  {
+    "id": 66,
+    "key": "astrophysics",
+    "parent_id": 65
+  },
+  {
+    "id": 67,
+    "key": "biology",
+    "parent_id": 65
+  },
+  {
+    "id": 68,
+    "key": "medicine",
+    "parent_id": 65
+  },
+  {
+    "id": 69,
+    "key": "ecology",
+    "parent_id": 65
+  },
+  {
+    "id": 70,
+    "key": "innovation",
+    "parent_id": 65
+  },
+  {
+    "id": 71,
+    "key": "research",
+    "parent_id": 65
+  },
+  {
+    "id": 72,
+    "key": "technological discoveries",
+    "parent_id": 65
+  },
+  {
+    "id": 73,
+    "key": "automotive",
+    "parent_id": null
+  },
+  {
+    "id": 74,
+    "key": "electric vehicles",
+    "parent_id": 73
+  },
+  {
+    "id": 75,
+    "key": "road tests",
+    "parent_id": 73
+  },
+  {
+    "id": 76,
+    "key": "new models",
+    "parent_id": 73
+  },
+  {
+    "id": 77,
+    "key": "accidents",
+    "parent_id": 73
+  },
+  {
+    "id": 78,
+    "key": "autoshow",
+    "parent_id": 73
+  },
+  {
+    "id": 79,
+    "key": "tuning",
+    "parent_id": 73
+  },
+  {
+    "id": 80,
+    "key": "trucks",
+    "parent_id": 73
+  },
+  {
+    "id": 81,
+    "key": "media",
+    "parent_id": null
+  },
+  {
+    "id": 82,
+    "key": "television",
+    "parent_id": 81
+  },
+  {
+    "id": 83,
+    "key": "online media",
+    "parent_id": 81
+  },
+  {
+    "id": 84,
+    "key": "journalism",
+    "parent_id": 81
+  },
+  {
+    "id": 85,
+    "key": "censorship",
+    "parent_id": 81
+  },
+  {
+    "id": 86,
+    "key": "social platforms",
+    "parent_id": 81
+  },
+  {
+    "id": 87,
+    "key": "live broadcasts",
+    "parent_id": 81
+  },
+  {
+    "id": 88,
+    "key": "influencers",
+    "parent_id": 81
+  },
+  {
+    "id": 89,
+    "key": "health",
+    "parent_id": null
+  },
+  {
+    "id": 90,
+    "key": "psychology",
+    "parent_id": 89
+  },
+  {
+    "id": 91,
+    "key": "diseases",
+    "parent_id": 89
+  },
+  {
+    "id": 92,
+    "key": "medications",
+    "parent_id": 89
+  },
+  {
+    "id": 93,
+    "key": "healthy lifestyle",
+    "parent_id": 89
+  },
+  {
+    "id": 94,
+    "key": "medical system",
+    "parent_id": 89
+  },
+  {
+    "id": 95,
+    "key": "epidemics",
+    "parent_id": 89
+  },
+  {
+    "id": 96,
+    "key": "healthcare services",
+    "parent_id": 89
+  },
+  {
+    "id": 97,
+    "key": "travel",
+    "parent_id": null
+  },
+  {
+    "id": 98,
+    "key": "tourism",
+    "parent_id": 97
+  },
+  {
+    "id": 99,
+    "key": "air travel",
+    "parent_id": 97
+  },
+  {
+    "id": 100,
+    "key": "hotels",
+    "parent_id": 97
+  },
+  {
+    "id": 101,
+    "key": "visas",
+    "parent_id": 97
+  },
+  {
+    "id": 102,
+    "key": "cruises",
+    "parent_id": 97
+  },
+  {
+    "id": 103,
+    "key": "guides",
+    "parent_id": 97
+  },
+  {
+    "id": 104,
+    "key": "countries and cities",
+    "parent_id": 97
+  }
+]

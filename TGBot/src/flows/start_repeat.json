@@ -1,0 +1,42 @@
+{
+  "start_node": "welcome_back_single",
+  "nodes": {
+    "welcome_back_single": {
+      "type": "message",
+      "btn": {
+        "buttons": [
+          [
+            {
+              "callback": "start_filter"
+            }
+          ],
+          [
+            {
+              "callback": "start_subscribe"
+            }
+          ],
+          [
+            {
+              "callback": "start_loyalty"
+            }
+          ]
+        ]
+      }
+    },
+    "start_filter": {
+      "type": "subflow",
+      "flow": "filter",
+      "entry": "filter_start"
+    },
+    "start_subscribe": {
+      "type": "subflow",
+      "flow": "subscribe",
+      "entry": "subscribe_start"
+    },
+    "start_loyalty": {
+      "type": "subflow",
+      "flow": "loyalty",
+      "entry": "loyalty_start"
+    }
+  }
+}

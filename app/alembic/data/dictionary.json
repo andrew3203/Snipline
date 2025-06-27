@@ -1,0 +1,730 @@
+[
+    {
+        "key": "politics",
+        "data": {
+            "ru": "политика",
+            "en": "politics"
+        }
+    },
+    {
+        "key": "elections",
+        "data": {
+            "ru": "выборы",
+            "en": "elections"
+        }
+    },
+    {
+        "key": "sanctions",
+        "data": {
+            "ru": "санкции",
+            "en": "sanctions"
+        }
+    },
+    {
+        "key": "corruption",
+        "data": {
+            "ru": "коррупция",
+            "en": "corruption"
+        }
+    },
+    {
+        "key": "international relations",
+        "data": {
+            "ru": "международные отношения",
+            "en": "international relations"
+        }
+    },
+    {
+        "key": "governance",
+        "data": {
+            "ru": "госуправление",
+            "en": "governance"
+        }
+    },
+    {
+        "key": "legislation",
+        "data": {
+            "ru": "законопроекты",
+            "en": "legislation"
+        }
+    },
+    {
+        "key": "military conflicts",
+        "data": {
+            "ru": "военные конфликты",
+            "en": "military conflicts"
+        }
+    },
+    {
+        "key": "economy",
+        "data": {
+            "ru": "экономика",
+            "en": "economy"
+        }
+    },
+    {
+        "key": "inflation",
+        "data": {
+            "ru": "инфляция",
+            "en": "inflation"
+        }
+    },
+    {
+        "key": "unemployment",
+        "data": {
+            "ru": "безработица",
+            "en": "unemployment"
+        }
+    },
+    {
+        "key": "taxes",
+        "data": {
+            "ru": "налоги",
+            "en": "taxes"
+        }
+    },
+    {
+        "key": "budget",
+        "data": {
+            "ru": "бюджет",
+            "en": "budget"
+        }
+    },
+    {
+        "key": "currency",
+        "data": {
+            "ru": "валюта",
+            "en": "currency"
+        }
+    },
+    {
+        "key": "public debt",
+        "data": {
+            "ru": "госдолг",
+            "en": "public debt"
+        }
+    },
+    {
+        "key": "macroeconomics",
+        "data": {
+            "ru": "макроэкономика",
+            "en": "macroeconomics"
+        }
+    },
+    {
+        "key": "business",
+        "data": {
+            "ru": "бизнес",
+            "en": "business"
+        }
+    },
+    {
+        "key": "markets",
+        "data": {
+            "ru": "рынки",
+            "en": "markets"
+        }
+    },
+    {
+        "key": "deals",
+        "data": {
+            "ru": "сделки",
+            "en": "deals"
+        }
+    },
+    {
+        "key": "financial reporting",
+        "data": {
+            "ru": "финансовая отчётность",
+            "en": "financial reporting"
+        }
+    },
+    {
+        "key": "IPO",
+        "data": {
+            "ru": "IPO",
+            "en": "IPO"
+        }
+    },
+    {
+        "key": "corporations",
+        "data": {
+            "ru": "корпорации",
+            "en": "corporations"
+        }
+    },
+    {
+        "key": "entrepreneurship",
+        "data": {
+            "ru": "предпринимательство",
+            "en": "entrepreneurship"
+        }
+    },
+    {
+        "key": "banking",
+        "data": {
+            "ru": "банковский сектор",
+            "en": "banking"
+        }
+    },
+    {
+        "key": "technology",
+        "data": {
+            "ru": "технологии",
+            "en": "technology"
+        }
+    },
+    {
+        "key": "artificial intelligence",
+        "data": {
+            "ru": "искусственный интеллект",
+            "en": "artificial intelligence"
+        }
+    },
+    {
+        "key": "startups",
+        "data": {
+            "ru": "стартапы",
+            "en": "startups"
+        }
+    },
+    {
+        "key": "gadgets",
+        "data": {
+            "ru": "гаджеты",
+            "en": "gadgets"
+        }
+    },
+    {
+        "key": "cybersecurity",
+        "data": {
+            "ru": "кибербезопасность",
+            "en": "cybersecurity"
+        }
+    },
+    {
+        "key": "social media",
+        "data": {
+            "ru": "социальные сети",
+            "en": "social media"
+        }
+    },
+    {
+        "key": "blockchain",
+        "data": {
+            "ru": "блокчейн",
+            "en": "blockchain"
+        }
+    },
+    {
+        "key": "robotics",
+        "data": {
+            "ru": "робототехника",
+            "en": "robotics"
+        }
+    },
+    {
+        "key": "sports",
+        "data": {
+            "ru": "спорт",
+            "en": "sports"
+        }
+    },
+    {
+        "key": "football",
+        "data": {
+            "ru": "футбол",
+            "en": "football"
+        }
+    },
+    {
+        "key": "olympics",
+        "data": {
+            "ru": "олимпийские игры",
+            "en": "olympics"
+        }
+    },
+    {
+        "key": "tennis",
+        "data": {
+            "ru": "теннис",
+            "en": "tennis"
+        }
+    },
+    {
+        "key": "hockey",
+        "data": {
+            "ru": "хоккей",
+            "en": "hockey"
+        }
+    },
+    {
+        "key": "transfers",
+        "data": {
+            "ru": "трансферы",
+            "en": "transfers"
+        }
+    },
+    {
+        "key": "championships",
+        "data": {
+            "ru": "чемпионаты",
+            "en": "championships"
+        }
+    },
+    {
+        "key": "records",
+        "data": {
+            "ru": "рекорды",
+            "en": "records"
+        }
+    },
+    {
+        "key": "society",
+        "data": {
+            "ru": "общество",
+            "en": "society"
+        }
+    },
+    {
+        "key": "education",
+        "data": {
+            "ru": "образование",
+            "en": "education"
+        }
+    },
+    {
+        "key": "migration",
+        "data": {
+            "ru": "миграция",
+            "en": "migration"
+        }
+    },
+    {
+        "key": "family",
+        "data": {
+            "ru": "семья",
+            "en": "family"
+        }
+    },
+    {
+        "key": "employment",
+        "data": {
+            "ru": "трудоустройство",
+            "en": "employment"
+        }
+    },
+    {
+        "key": "social policy",
+        "data": {
+            "ru": "социальная политика",
+            "en": "social policy"
+        }
+    },
+    {
+        "key": "youth",
+        "data": {
+            "ru": "молодёжь",
+            "en": "youth"
+        }
+    },
+    {
+        "key": "demographics",
+        "data": {
+            "ru": "демография",
+            "en": "demographics"
+        }
+    },
+    {
+        "key": "incidents",
+        "data": {
+            "ru": "происшествия",
+            "en": "incidents"
+        }
+    },
+    {
+        "key": "fires",
+        "data": {
+            "ru": "пожары",
+            "en": "fires"
+        }
+    },
+    {
+        "key": "traffic accidents",
+        "data": {
+            "ru": "ДТП",
+            "en": "traffic accidents"
+        }
+    },
+    {
+        "key": "crimes",
+        "data": {
+            "ru": "преступления",
+            "en": "crimes"
+        }
+    },
+    {
+        "key": "floods",
+        "data": {
+            "ru": "наводнения",
+            "en": "floods"
+        }
+    },
+    {
+        "key": "terrorist acts",
+        "data": {
+            "ru": "теракты",
+            "en": "terrorist acts"
+        }
+    },
+    {
+        "key": "explosions",
+        "data": {
+            "ru": "взрывы",
+            "en": "explosions"
+        }
+    },
+    {
+        "key": "catastrophes",
+        "data": {
+            "ru": "катастрофы",
+            "en": "catastrophes"
+        }
+    },
+    {
+        "key": "culture",
+        "data": {
+            "ru": "культура",
+            "en": "culture"
+        }
+    },
+    {
+        "key": "cinema",
+        "data": {
+            "ru": "кино",
+            "en": "cinema"
+        }
+    },
+    {
+        "key": "literature",
+        "data": {
+            "ru": "литература",
+            "en": "literature"
+        }
+    },
+    {
+        "key": "theater",
+        "data": {
+            "ru": "театр",
+            "en": "theater"
+        }
+    },
+    {
+        "key": "music",
+        "data": {
+            "ru": "музыка",
+            "en": "music"
+        }
+    },
+    {
+        "key": "painting",
+        "data": {
+            "ru": "живопись",
+            "en": "painting"
+        }
+    },
+    {
+        "key": "festivals",
+        "data": {
+            "ru": "фестивали",
+            "en": "festivals"
+        }
+    },
+    {
+        "key": "museums",
+        "data": {
+            "ru": "музеи",
+            "en": "museums"
+        }
+    },
+    {
+        "key": "science",
+        "data": {
+            "ru": "наука",
+            "en": "science"
+        }
+    },
+    {
+        "key": "astrophysics",
+        "data": {
+            "ru": "астрофизика",
+            "en": "astrophysics"
+        }
+    },
+    {
+        "key": "biology",
+        "data": {
+            "ru": "биология",
+            "en": "biology"
+        }
+    },
+    {
+        "key": "medicine",
+        "data": {
+            "ru": "медицина",
+            "en": "medicine"
+        }
+    },
+    {
+        "key": "ecology",
+        "data": {
+            "ru": "экология",
+            "en": "ecology"
+        }
+    },
+    {
+        "key": "innovation",
+        "data": {
+            "ru": "инновации",
+            "en": "innovation"
+        }
+    },
+    {
+        "key": "research",
+        "data": {
+            "ru": "исследования",
+            "en": "research"
+        }
+    },
+    {
+        "key": "technological discoveries",
+        "data": {
+            "ru": "технологические открытия",
+            "en": "technological discoveries"
+        }
+    },
+    {
+        "key": "automotive",
+        "data": {
+            "ru": "авто",
+            "en": "automotive"
+        }
+    },
+    {
+        "key": "electric vehicles",
+        "data": {
+            "ru": "электромобили",
+            "en": "electric vehicles"
+        }
+    },
+    {
+        "key": "road tests",
+        "data": {
+            "ru": "дорожные тесты",
+            "en": "road tests"
+        }
+    },
+    {
+        "key": "new models",
+        "data": {
+            "ru": "новые модели",
+            "en": "new models"
+        }
+    },
+    {
+        "key": "accidents",
+        "data": {
+            "ru": "аварии",
+            "en": "accidents"
+        }
+    },
+    {
+        "key": "autoshow",
+        "data": {
+            "ru": "автосалон",
+            "en": "autoshow"
+        }
+    },
+    {
+        "key": "tuning",
+        "data": {
+            "ru": "тюнинг",
+            "en": "tuning"
+        }
+    },
+    {
+        "key": "trucks",
+        "data": {
+            "ru": "грузовики",
+            "en": "trucks"
+        }
+    },
+    {
+        "key": "media",
+        "data": {
+            "ru": "медиа",
+            "en": "media"
+        }
+    },
+    {
+        "key": "television",
+        "data": {
+            "ru": "телевидение",
+            "en": "television"
+        }
+    },
+    {
+        "key": "online media",
+        "data": {
+            "ru": "интернет-СМИ",
+            "en": "online media"
+        }
+    },
+    {
+        "key": "journalism",
+        "data": {
+            "ru": "журналистика",
+            "en": "journalism"
+        }
+    },
+    {
+        "key": "censorship",
+        "data": {
+            "ru": "цензура",
+            "en": "censorship"
+        }
+    },
+    {
+        "key": "social platforms",
+        "data": {
+            "ru": "социальные медиа",
+            "en": "social platforms"
+        }
+    },
+    {
+        "key": "live broadcasts",
+        "data": {
+            "ru": "трансляции",
+            "en": "live broadcasts"
+        }
+    },
+    {
+        "key": "influencers",
+        "data": {
+            "ru": "инфлюенсеры",
+            "en": "influencers"
+        }
+    },
+    {
+        "key": "health",
+        "data": {
+            "ru": "здоровье",
+            "en": "health"
+        }
+    },
+    {
+        "key": "psychology",
+        "data": {
+            "ru": "психология",
+            "en": "psychology"
+        }
+    },
+    {
+        "key": "diseases",
+        "data": {
+            "ru": "заболевания",
+            "en": "diseases"
+        }
+    },
+    {
+        "key": "medications",
+        "data": {
+            "ru": "лекарства",
+            "en": "medications"
+        }
+    },
+    {
+        "key": "healthy lifestyle",
+        "data": {
+            "ru": "здоровый образ жизни",
+            "en": "healthy lifestyle"
+        }
+    },
+    {
+        "key": "medical system",
+        "data": {
+            "ru": "медицина",
+            "en": "medical system"
+        }
+    },
+    {
+        "key": "epidemics",
+        "data": {
+            "ru": "эпидемии",
+            "en": "epidemics"
+        }
+    },
+    {
+        "key": "healthcare services",
+        "data": {
+            "ru": "медуслуги",
+            "en": "healthcare services"
+        }
+    },
+    {
+        "key": "travel",
+        "data": {
+            "ru": "путешествия",
+            "en": "travel"
+        }
+    },
+    {
+        "key": "tourism",
+        "data": {
+            "ru": "туризм",
+            "en": "tourism"
+        }
+    },
+    {
+        "key": "air travel",
+        "data": {
+            "ru": "авиаперелёты",
+            "en": "air travel"
+        }
+    },
+    {
+        "key": "hotels",
+        "data": {
+            "ru": "отели",
+            "en": "hotels"
+        }
+    },
+    {
+        "key": "visas",
+        "data": {
+            "ru": "визы",
+            "en": "visas"
+        }
+    },
+    {
+        "key": "cruises",
+        "data": {
+            "ru": "круизы",
+            "en": "cruises"
+        }
+    },
+    {
+        "key": "guides",
+        "data": {
+            "ru": "гиды",
+            "en": "guides"
+        }
+    },
+    {
+        "key": "countries and cities",
+        "data": {
+            "ru": "страны и города",
+            "en": "countries and cities"
+        }
+    }
+]

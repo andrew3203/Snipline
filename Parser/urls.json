@@ -1,0 +1,402 @@
+[
+  {
+    "name": "РИА Новости",
+    "url": "https://ria.ru/politics/",
+    "rss": "https://ria.ru/export/rss2/archive/index.xml",
+    "lang": "ru",
+    "last_date": "2025-05-12T00:36:49+03:00",
+    "setting": "http"
+  },
+  {
+    "name": "BBC Politics",
+    "url": "https://www.bbc.com/news/politics",
+    "rss": "https://feeds.bbci.co.uk/news/politics/rss.xml",
+    "lang": "en",
+    "last_date": "2025-05-11T21:30:04+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "PEOPLETALK",
+    "url": "https://peopletalk.ru/",
+    "rss": "https://peopletalk.ru/feed/",
+    "lang": "ru",
+    "last_date": "2025-05-11T21:37:09+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Коммерсантъ",
+    "url": "https://www.kommersant.ru/rubric/3",
+    "rss": "https://www.kommersant.ru/RSS/news.xml",
+    "lang": "ru",
+    "last_date": "2025-05-12T00:43:52+03:00",
+    "setting": "http"
+  },
+  {
+    "name": "Forbes Russia",
+    "url": "https://www.forbes.ru/",
+    "rss": "https://www.forbes.ru/newrss.xml",
+    "lang": "ru",
+    "last_date": "2025-05-12T00:00:00+03:00",
+    "setting": "http"
+  },
+  {
+    "name": "BCS Express",
+    "url": "https://bcs-express.ru/",
+    "rss": "https://bcs-express.ru/rss/news",
+    "lang": "ru",
+    "last_date": "2025-05-09T23:01:36+03:00",
+    "setting": "http"
+  },
+  {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/business/",
+    "rss": "https://www.cnbc.com/id/10001147/device/rss/rss.html",
+    "lang": "en",
+    "last_date": "2025-05-11T12:00:01+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Business Insider",
+    "url": "https://www.businessinsider.com/",
+    "rss": "https://www.businessinsider.com/rss",
+    "lang": "en",
+    "last_date": "2025-05-11T18:07:54+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "The Economist",
+    "url": "https://www.economist.com/",
+    "rss": "https://www.economist.com/rss/the_world_this_week_rss.xml",
+    "lang": "en",
+    "last_date": "2025-05-08T13:01:04+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "TASS — Наука",
+    "url": "https://tass.ru/nauka",
+    "rss": "https://tass.ru/rss/v2.xml",
+    "lang": "ru",
+    "last_date": "2025-05-12T00:30:13+03:00",
+    "setting": "http"
+  },
+  {
+    "name": "Hi-Tech Mail.ru",
+    "url": "https://hi-tech.mail.ru/",
+    "rss": "https://hi-tech.mail.ru/rss/all.xml",
+    "lang": "ru",
+    "last_date": "2025-05-11T21:00:00+03:00",
+    "setting": "http"
+  },
+  {
+    "name": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/",
+    "rss": "https://www.sciencedaily.com/rss/all.xml",
+    "lang": "en",
+    "last_date": "2025-05-09T15:42:15-04:00",
+    "setting": "http"
+  },
+  {
+    "name": "Investing.com",
+    "url": "https://ru.investing.com/",
+    "rss": "https://www.investing.com/rss/news.rss",
+    "lang": "ru",
+    "last_date": "2025-04-19T11:50:49+00:00",
+    "setting": "browser"
+  },
+  {
+    "name": "VC.ru",
+    "url": "https://vc.ru/invest",
+    "rss": "https://vc.ru/rss",
+    "lang": "ru",
+    "last_date": "2025-05-11T20:15:18+03:00",
+    "setting": "http"
+  },
+  {
+    "name": "Forklog",
+    "url": "https://forklog.com/",
+    "rss": "https://forklog.com/feed/",
+    "lang": "ru",
+    "last_date": "2025-05-11T17:56:30+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Bits.media",
+    "url": "https://bits.media/",
+    "rss": "https://bits.media/rss2/news/",
+    "lang": "ru",
+    "last_date": "2025-05-11T15:30:11+03:00",
+    "setting": "http"
+  },
+  {
+    "name": "RBC",
+    "url": "https://www.rbc.ru/crypto/",
+    "rss": "https://rssexport.rbc.ru/rbcnews/news/30/full.rss",
+    "lang": "ru",
+    "last_date": "2025-05-12T00:50:16+03:00",
+    "setting": "http"
+  },
+  {
+    "name": "Investopedia",
+    "url": "https://www.investopedia.com/",
+    "rss": "https://feeds-api.dotdashmeredith.com/v1/rss/google/f8466ec3-5044-46bc-94b7-2df65f770eff",
+    "lang": "en",
+    "last_date": "2025-05-11T16:20:57+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/",
+    "rss": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "lang": "ru",
+    "last_date": "2025-05-11T17:00:00+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "CoinTelegraph",
+    "url": "https://cointelegraph.com/",
+    "rss": "https://cointelegraph.com/rss",
+    "lang": "en",
+    "last_date": "2025-05-11T22:43:24+01:00",
+    "setting": "http"
+  },
+  {
+    "name": "Yahoo Finance: Microsoft (MSFT)",
+    "url": "https://finance.yahoo.com/quote/MSFT/",
+    "rss": "http://finance.yahoo.com/rss/headline?s=MSFT",
+    "lang": "en",
+    "last_date": "2025-05-11T19:20:00+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Yahoo News - Top Stories",
+    "url": "https://news.yahoo.com/",
+    "rss": "http://rss.news.yahoo.com/rss/topstories",
+    "lang": "en",
+    "last_date": "2025-05-11T21:18:28+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Yahoo News - US",
+    "url": "https://news.yahoo.com/us",
+    "rss": "http://rss.news.yahoo.com/rss/us",
+    "lang": "en",
+    "last_date": "2025-05-11T21:00:33+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Yahoo News - World",
+    "url": "https://news.yahoo.com/world",
+    "rss": "http://rss.news.yahoo.com/rss/world",
+    "lang": "en",
+    "last_date": "2025-05-11T20:54:33+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Yahoo News - Politics",
+    "url": "https://news.yahoo.com/politics",
+    "rss": "http://rss.news.yahoo.com/rss/politics",
+    "lang": "en",
+    "last_date": "2025-05-11T19:00:00+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Yahoo News - Health",
+    "url": "https://news.yahoo.com/health",
+    "rss": "http://rss.news.yahoo.com/rss/health",
+    "lang": "en",
+    "last_date": "2025-05-02T20:15:38+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Yahoo News - Entertainment",
+    "url": "https://news.yahoo.com/entertainment",
+    "rss": "http://rss.news.yahoo.com/rss/entertainment",
+    "lang": "en",
+    "last_date": "2025-04-18T00:00:00+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Yahoo News - Science",
+    "url": "https://news.yahoo.com/science",
+    "rss": "http://rss.news.yahoo.com/rss/science",
+    "lang": "en",
+    "last_date": "2025-05-11T16:00:50+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Yahoo News - Lifestyle",
+    "url": "https://news.yahoo.com/lifestyle",
+    "rss": "http://rss.news.yahoo.com/rss/lifestyle",
+    "lang": "en",
+    "last_date": "2025-05-11T20:59:39+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Bloomberg Markets",
+    "url": "https://www.bloomberg.com/markets",
+    "rss": "https://feeds.bloomberg.com/markets/news.rss",
+    "lang": "en",
+    "last_date": "2025-05-11T21:38:53+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Decrypt",
+    "url": "https://decrypt.co/",
+    "rss": "https://decrypt.co/feed",
+    "lang": "en",
+    "last_date": "2025-05-11T19:38:14+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Medportal.ru",
+    "url": "https://medportal.ru/",
+    "rss": "https://medportal.ru/mednovosti.rss",
+    "lang": "ru",
+    "last_date": "2025-05-08T11:24:00+03:00",
+    "setting": "http"
+  },
+  {
+    "name": "Доктор Питер",
+    "url": "https://doctorpiter.ru/",
+    "rss": "https://doctorpiter.ru/rss-feeds/rss.xml",
+    "lang": "ru",
+    "last_date": "2025-05-11T16:26:35+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Interfax",
+    "url": "https://www.interfax.ru/healthcare",
+    "rss": "https://www.interfax.ru/rss.asp",
+    "lang": "ru",
+    "last_date": "2025-05-12T00:06:00+03:00",
+    "setting": "http"
+  },
+  {
+    "name": "Чемпионат",
+    "url": "https://www.championat.com/",
+    "rss": "https://www.championat.com/rss/article/",
+    "lang": "ru",
+    "last_date": "2025-05-12T00:15:07+03:00",
+    "setting": "http"
+  },
+  {
+    "name": "Sports.ru",
+    "url": "https://www.sports.ru/",
+    "rss": "https://www.sports.ru/rss/main.xml",
+    "lang": "ru",
+    "last_date": "2025-05-12T00:30:00+03:00",
+    "setting": "http"
+  },
+  {
+    "name": "BBC Sport",
+    "url": "https://www.bbc.com/sport",
+    "rss": "https://feeds.bbci.co.uk/sport/rss.xml",
+    "lang": "en",
+    "last_date": "2025-04-19T12:04:35+00:00",
+    "setting": "browser"
+  },
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/",
+    "rss": "https://techcrunch.com/feed/",
+    "lang": "en",
+    "last_date": "2025-05-11T20:01:39+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "VentureBeat",
+    "url": "https://venturebeat.com/",
+    "rss": "https://venturebeat.com/feed/",
+    "lang": "en",
+    "last_date": "2025-05-11T17:05:00+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Crunchbase News",
+    "url": "https://news.crunchbase.com/",
+    "rss": "https://news.crunchbase.com/feed/",
+    "lang": "en",
+    "last_date": "2025-05-09T17:20:30+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Sifted",
+    "url": "https://sifted.eu/",
+    "rss": "https://sifted.eu/feed/",
+    "lang": "en",
+    "last_date": "2025-04-19T09:57:02+00:00",
+    "setting": "browser"
+  },
+  {
+    "name": "EU-Startups",
+    "url": "https://www.eu-startups.com/",
+    "rss": "https://www.eu-startups.com/feed/",
+    "lang": "en",
+    "last_date": "2025-05-09T15:27:33+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Axios",
+    "url": "https://www.axios.com/",
+    "rss": "https://www.axios.com/feeds/feed.rss",
+    "lang": "en",
+    "last_date": "2025-04-19T11:38:10+00:00",
+    "setting": "browser"
+  },
+  {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/",
+    "rss": "https://www.theverge.com/rss/index.xml",
+    "lang": "en",
+    "last_date": "2025-05-11T16:03:55-04:00",
+    "setting": "http"
+  },
+  {
+    "name": "Quartz",
+    "url": "https://qz.com/",
+    "rss": "https://qz.com/rss",
+    "lang": "en",
+    "last_date": "2025-05-11T09:00:00+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Rusbase",
+    "url": "https://rb.ru/",
+    "rss": "https://rb.ru/feeds/all/",
+    "lang": "ru",
+    "last_date": "2025-05-08T09:32:09+00:00",
+    "setting": "http"
+  },
+  {
+    "name": "Banki.ru",
+    "url": "https://www.banki.ru/news/lenta/?tag=finansy",
+    "rss": "https://www.banki.ru/xml/responses.rss",
+    "lang": "en",
+    "setting": "http",
+    "last_date": "2025-05-07T16:06:38+03:00"
+  },
+  {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/",
+    "rss": "https://feeds.marketwatch.com/marketwatch/topstories/",
+    "lang": "en",
+    "setting": "http",
+    "last_date": "2025-05-11T21:23:00+00:00"
+  },
+  {
+    "name": "People",
+    "url": "https://people.com/",
+    "rss": "https://feeds-api.dotdashmeredith.com/v1/rss/google/6bb3396f-8157-4dc5-8fcf-c1bd9d415be8",
+    "lang": "en",
+    "setting": "http",
+    "last_date": "2025-05-11T21:30:00+00:00"
+  },
+  {
+    "name": "E! Online",
+    "url": "https://www.eonline.com/",
+    "rss": "https://eol-feeds.eonline.com/rssfeed/us/top_stories",
+    "lang": "en",
+    "setting": "http",
+    "last_date": "2025-05-11T21:48:11+00:00"
+  }
+]
